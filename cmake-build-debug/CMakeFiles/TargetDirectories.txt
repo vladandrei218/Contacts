@@ -1,0 +1,3 @@
+C:/Users/vlada/OneDrive/Desktop/ProgrammingProject/cmake-build-debug/CMakeFiles/ProgrammingProject.dir
+C:/Users/vlada/OneDrive/Desktop/ProgrammingProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vlada/OneDrive/Desktop/ProgrammingProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
